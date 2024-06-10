@@ -78,3 +78,14 @@ main{
     display: inline-block;
 }
 
+.language{
+    margin-top: 30px;
+    text-decoration: none;
+    line-height: 0px;
+}
+
+.languagecontainer{
+    display: flex;
+    text-align: center;
+    align-items: center;
+}
