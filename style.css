@@ -1,7 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    color: rgb(18, 82, 18); /*dark green*/
+    color: rgb(18, 82, 18);
+    font-family: 'DM Serif Text';
 }
 
 main{
